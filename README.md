@@ -1,2 +1,2 @@
 # Owoce
-Uywanie konstrukcji super();
+Używanie konstrukcji super();
