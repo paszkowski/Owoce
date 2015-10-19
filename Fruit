@@ -1,0 +1,12 @@
+package fruit;
+
+public class Fruit {
+	
+	Fruit() {}
+	String owoc;
+	
+	void printInfo () {
+		System.out.println("Owoc:  ");
+	}
+
+}
