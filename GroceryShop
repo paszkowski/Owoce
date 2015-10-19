@@ -1,0 +1,14 @@
+package fruit;
+//import fruit.Apple;
+
+public class GroceryShop {
+
+	public static void main(String[] args) {
+		
+		Apple owoc = new Apple("Pyszne");
+		
+		owoc.printInfo();
+
+	}
+
+}
